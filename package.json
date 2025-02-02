@@ -1,5 +1,5 @@
 {
-  "name": "week-02-DevOps",
+  "name": "week-02-devops",
   "private": true,
   "scripts": {
     "build": "turbo build",
