@@ -1,4 +1,4 @@
-import express from "express";
+import express from "@repo/express";
 
 const app = express();
 
